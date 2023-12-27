@@ -2,7 +2,7 @@
 
 **` Software Engineer`**
 
-I'm Slim Skhab, a 21-year-old software engineering student hailing from Tunisia. Currently, I'm pursuing my studies at the esteemed South Mediterranean University, where I am honing my skills in the world of technology. Alongside my academic pursuits, I embrace my passion for freelancing, leveraging my expertise to tackle diverse projects and contribute to the ever-evolving tech landscape.
+Hey, I'm Slim Skhab, a Full Stack Developer skilled in React.js, AngularJs, Node.js, and Flutter. I focus on creating sleek and high-performance web and mobile applications.
 
 ---
 
